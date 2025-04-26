@@ -5,7 +5,7 @@
 </a>
 
 
-<img align="right" alt="coding" width="300" src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V8DClkG4bEpCQLxGBlTQOGcFZ5LC5-TLNw&s ">
+<img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V8DClkG4bEpCQLxGBlTQOGcFZ5LC5-TLNw&s">
 
 
 - 🌱 I’m currently passionate about **Full Stack Web Development**
