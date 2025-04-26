@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **khusadutiwari1203@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1EQMpBoXWiLGdMfGVhUZaW7SO3BUIkdg/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1EQMpBoXWiLGdMfGVhUZamW7SO3BUIkdg/view?usp=sharing)
 
 
 - ⚡ Fun fact **"Fueled by curiosity and a love for turning ideas into reality. 🚀 #AlwaysLearning"**
