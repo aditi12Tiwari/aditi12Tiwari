@@ -5,7 +5,7 @@
 </a>
 
 
-<img align=“right” alt =“coding” width =“400” src=“![image](https://github.com/user-attachments/assets/03a2282c-e9bb-4947-a420-3a860d5d2796)
+<img align=“right” alt =“coding” width =“300” src=“![image](https://github.com/user-attachments/assets/03a2282c-e9bb-4947-a420-3a860d5d2796)
 ” >
 
 - 🌱 I’m currently passionate about **Full Stack Web Development**
