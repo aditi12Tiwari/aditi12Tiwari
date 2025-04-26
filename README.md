@@ -5,8 +5,8 @@
 </a>
 
 
-<img align=“right” alt =“coding” width =“300” src=“![image](https://github.com/user-attachments/assets/03a2282c-e9bb-4947-a420-3a860d5d2796)
-” >
+<img align="right" alt="coding" width="300" src="https://cdn.pixabay.com/photo/2022/12/14/13/41/coding-7656062_960_720.png">
+
 
 - 🌱 I’m currently passionate about **Full Stack Web Development**
 
