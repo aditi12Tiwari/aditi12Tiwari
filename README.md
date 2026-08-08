@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi Tiwari</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<h3 align="center">Data Analyst | Full Stack Developer </h3>
 
 <img  src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=A+Tech+Enthusiast+from+India.;+Seeking+new+challenges+and+opportunities+to+expand+my+skills." alt="Typing SVG" />
 </a>
